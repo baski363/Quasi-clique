@@ -1,13 +1,16 @@
 # Quasi-clique
 This repository contains codes and instances used in the computational study reported in the article *"An Ellipsoidal Bounding Scheme for the Quasi-Clique Number of a Graph"* that has been accepted for publication in the _INFORMS Journal on Computing_ (citation will be updated when DOI information and URL are available). If you wish to use or cite this code, please cite the paper:
 ```
-@article{MiaoBala2019quasiclique,
-Author = {Zhuqi Miao and Balabhaskar Balasundaram},
-Journal = {{INFORMS} Journal on Computing},
-Month = {July},
-Note = {Accepted for publication.},
-Title = {An Ellipsoidal Bounding Scheme for the Quasi-Clique Number of a Graph},
-Year = {2019}}
+@article{BBZM2020quasiclique,
+	Author = {Zhuqi Miao and Balabhaskar Balasundaram},
+	Journal = {{INFORMS} Journal on Computing},
+	Note = {Codes/instances online at: \url{https://github.com/baski363/Quasi-clique}},
+	Number = {3},
+	Pages = {763--778},
+	Title = {An Ellipsoidal Bounding Scheme for the Quasi-Clique Number of a Graph},
+	Volume = {32},
+	Year = {2020}}
+
 ```
 User instructions: Packages required to run codes-- not provided here, other licenses required; compile and run instructions-- input parameters, etc.
 
